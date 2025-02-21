@@ -1,0 +1,4 @@
+List1 = ["Sharath", 46, "Roll Number"]
+List2 = ["Kumar", 4,"lucky number"]
+new_list = List1 + List2
+print(new_list)
